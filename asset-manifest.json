@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/web-development/react_search_bar/static/css/main.fcd8d8f1.chunk.css",
+    "main.js": "/web-development/react_search_bar/static/js/main.55fb62ea.chunk.js",
+    "main.js.map": "/web-development/react_search_bar/static/js/main.55fb62ea.chunk.js.map",
+    "runtime-main.js": "/web-development/react_search_bar/static/js/runtime-main.015fdb00.js",
+    "runtime-main.js.map": "/web-development/react_search_bar/static/js/runtime-main.015fdb00.js.map",
+    "static/css/2.31461e4f.chunk.css": "/web-development/react_search_bar/static/css/2.31461e4f.chunk.css",
+    "static/js/2.f726b547.chunk.js": "/web-development/react_search_bar/static/js/2.f726b547.chunk.js",
+    "static/js/2.f726b547.chunk.js.map": "/web-development/react_search_bar/static/js/2.f726b547.chunk.js.map",
+    "static/js/3.5059fe62.chunk.js": "/web-development/react_search_bar/static/js/3.5059fe62.chunk.js",
+    "static/js/3.5059fe62.chunk.js.map": "/web-development/react_search_bar/static/js/3.5059fe62.chunk.js.map",
+    "index.html": "/web-development/react_search_bar/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/web-development/react_search_bar/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.fcd8d8f1.chunk.css.map": "/web-development/react_search_bar/static/css/main.fcd8d8f1.chunk.css.map",
+    "static/js/2.f726b547.chunk.js.LICENSE.txt": "/web-development/react_search_bar/static/js/2.f726b547.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.015fdb00.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.f726b547.chunk.js",
+    "static/css/main.fcd8d8f1.chunk.css",
+    "static/js/main.55fb62ea.chunk.js"
+  ]
+}
